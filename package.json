@@ -1,0 +1,11 @@
+{
+  "name": "angularregistration",
+  "version": "0.0.1",
+  "description": "An application for taking attendance at meetups. Part of my Data Driven Web Applications with Angular.js course at Lynda.com",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keiko Ueda",
+  "license": "ISC"
+}
